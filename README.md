@@ -34,7 +34,7 @@ print(hewan[2:4])
 print (hewan[-1])
 ```
 ### Output
-![Gambar2](Screenshots/Output-Akses-list.png)
+![Gambar2](Screenshot/Output-Akses-list.png)
 
 
 ## Ubah Elemen List
@@ -42,7 +42,7 @@ print (hewan[-1])
 - Ubah elemen ke-4 sampai dengan elemen terakhir
 
 ### Program
-![Gambar1](Screenshot/Ubah-Element-list.png)
+![Gambar1](Screenshot/Ubah-element-list.png)
 
 ### Penjelasan
 1. Buat list dengan nilai yang diinginkan
@@ -74,7 +74,7 @@ print('mengubah elemen ke-4 sampai terakhir :', hewan)
 ### Program
 ![Gambar1](Screenshot/Tambah-element-list.png)
 
-#### Penjelasan
+### Penjelasan
 1. Buat list dengan variabel A dan B
 ```python
 A = [12,14,16,18,20]
@@ -104,7 +104,7 @@ print()
 print(A+B)
 ```
 
-#### Output
+### Output
 ![Gambar2](Screenshot/Output-Tambah-element-list.png)
 
 
@@ -112,7 +112,7 @@ print(A+B)
 # Tugas Praktikum
 ## Program sederhana untuk menambahkan data kedalam sebuah list 
 ### Program
-![Gambar1](Screenshots/Praktikum4.png)
+![Gambar1](Screenshot/Praktikum4.png)
 
 ### Penjelasan
 1. Deklarasi list
