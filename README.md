@@ -180,4 +180,4 @@ print(73*"=")
 
 ### Selesai
 
-## Terima Kasi
+## Terima Kasih
